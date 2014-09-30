@@ -15,10 +15,10 @@
 //= require bootstrap-sprockets
 //= require_tree .
 
-
-
-$(document).ready(function(){
-  $("body").toggleClass("wait");
-});
+//
+//
+//$(document).ready(function(){
+//  $("body").toggleClass("wait");
+//});
 
 
