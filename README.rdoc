@@ -1,3 +1,5 @@
 == README
 
-This app got outsourced to India. All of the users are becoming admin.
+This app got outsourced to India. This is just the user creation portion. All of our users are admin and we don't know why.
+
+It also takes a really long time to load the pages. The users username and admin displays on the front page.
